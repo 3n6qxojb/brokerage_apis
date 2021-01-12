@@ -1,4 +1,4 @@
-# Use this script to make get an option chain using your TDameritrade account
+# Use this script to download an option chain using your TDameritrade account
 # Documentation:
 #   https://pypi.org/project/td-ameritrade-python-api/
 #   https://developer.tdameritrade.com/
